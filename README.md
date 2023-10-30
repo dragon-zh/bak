@@ -1,4 +1,4 @@
-# CIPS @ NYIST 网站
+# CIPS @ NYIST 主页
 
 本站fork自中国科学技术大学 Linux 用户协会[主页](https://github.com/ustclug/website)。
 
