@@ -79,7 +79,7 @@ jobs:
       run: |
         CINFO="$(git log -1 --pretty="%an: [%h] %s")"
         pushd _site/ &>/dev/null
-        echo -n lug.ustc.edu.cn > CNAME
+        echo -n cips.nyist.edu.cn > CNAME
         git add -A
         git -c user.name=GitHub -c user.email=noreply@github.com commit \
           -m "Auto deploy from GitHub Actions build ${GITHUB_RUN_NUMBER}" \
@@ -95,7 +95,7 @@ jobs:
       continue-on-error: true
 
     - name: Call webhook
-      if: "github.repository == 'ustclug/website' && github.ref == 'refs/heads/master'"
+      if: "github.repository == 'NYIST-CIPS/website' && github.ref == 'refs/heads/master'"
       env:
         WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
       run: ruby _scripts/webhook.rb
