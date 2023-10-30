@@ -1,6 +1,6 @@
 # CIPS @ NYIST 网站
 
-本站fork自中国科学技术大学 Linux 用户协会的官方网站。
+本站fork自中国科学技术大学 Linux 用户协会[主页](https://github.com/ustclug/website)。
 
 本仓库为源代码，所有推送到 master 分支的修改会使用 GitHub Actions 自动编译和部署。
 
