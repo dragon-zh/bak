@@ -1,6 +1,6 @@
-# LUG @ USTC 新版网站
+# CIPS @ NYIST 网站
 
-中国科学技术大学 Linux 用户协会的官方网站。（于 2020 年 8 月启用，所以称为“新版”）
+本站fork自中国科学技术大学 Linux 用户协会的官方网站。
 
 本仓库为源代码，所有推送到 master 分支的修改会使用 GitHub Actions 自动编译和部署。
 
@@ -14,13 +14,12 @@
 
 为了避免仓库过度膨胀，请避免将图片上传至本仓库。图片的处理方式有以下几种：
 
-- 上传至 [website-static 仓库](https://github.com/ustclug/website-static)，并使用如下格式引用：
+- 上传至 [website-static 仓库](https://github.com/NYIST-CIPS/website-static)，并使用如下格式引用：
 
   ```markdown
   ![图片的 alt 文字]({{ site.static_url }}/path/to/image.jpg)
   ```
 
-- 上传至 LUG FTP，并使用完整路径引用
 
 ## 本地预览与构建
 
