@@ -46,7 +46,7 @@ permalink: /wiki/
 - QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。
 - 邮件: ustc_lug (at) googlegroups.com [点击此处了解详情](/wiki/lug/mailinglist)
 - 官方邮箱: ![]({{ site.static_url }}/email.png)
-- 活动室: 东南校区13教211室
+- 活动室: 东南校区 13 教 211 室
 - 更多联系方式请 [戳这里](/wiki/lug/contact)
 
 ## 协会 LOGO
