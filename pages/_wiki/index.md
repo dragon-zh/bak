@@ -2,9 +2,9 @@
 permalink: /wiki/
 ---
 
-# 中国科学技术大学 Linux 用户协会
+# 南阳理工学院-计算机与信息化处理协会
 
-中国科学技术大学 Linux 用户协会（科大 LUG）是由在校的 GNU/Linux 爱好者发起并组成的全校性群众团体，是一个以推广自由软件文化、宣传自由软件价值为目的的协会组织。  
+南阳理工学院-计算机与信息化处理协会是由南阳理工学院在校的 GNU/Linux 爱好者发起并组成的团体，旨在搭建信息交流共享的平台，宣传自由软件的价值，提高自由软件社区文化氛围，推广自由软件的应用。  
 [了解更多](intro.md)
 
 [English Version](intro_english.md)
@@ -43,12 +43,10 @@ permalink: /wiki/
 
 ## 联系我们
 
-- QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。具体群号请查看 qq.ustclug.org 的 TXT 记录。
-- 邮件列表: ustc_lug (at) googlegroups.com [点击此处了解详情](/wiki/lug/mailinglist)
-- IRC/Telegram 在线及时聊天，[点击此处](/wiki/lug/contact)了解加入方式，平台互联由 TUNA 提供支持
-- 瀚海星云 BBS: [瀚海星云 BBS Linux 版](https://bbs.ustc.edu.cn/cgi/bbsdoc?board=Linux)
+- QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。
+- 邮件: ustc_lug (at) googlegroups.com [点击此处了解详情](/wiki/lug/mailinglist)
 - 官方邮箱: ![]({{ site.static_url }}/email.png)
-- 活动室: 西区图书馆 206 室
+- 活动室: 东南校区13教211室
 - 更多联系方式请 [戳这里](/wiki/lug/contact)
 
 ## 协会 LOGO
@@ -59,4 +57,4 @@ Designed by Shengyu Zhang on 2018-08-30
 
 ## 协会章程
 
-LUG 的所有活动均依照[协会章程](http://ftp.lug.ustc.edu.cn/%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86/%E7%AB%A0%E7%A8%8B/2021-%E7%AB%A0%E7%A8%8B.pdf)开展。
+LUG 的所有活动均依照协会章程开展。

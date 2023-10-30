@@ -6,12 +6,12 @@ main:
   - title: '<i class="fad fa-lg fa-fw fa-planet-ringed fa-swap-opacity"></i> Planet'
     url: /planet/
   - title: '<i class="fab fa-lg fa-fw fa-github"></i> GitHub' # <i class="fa fas fa-xs fa-external-link-alt"></i>'
-    url: "https://github.com/ustclug"
+    url: "https://github.com/NYIST-CIPS"
   - title: '<i class="fad fa-lg fa-fw fa-server"></i> Mirrors'
-    url: "https://mirrors.ustc.edu.cn/"
+    url: "https://mirror.nyist.edu.cn/"
 
 wiki:
-  - title: LUG @ USTC
+  - title: CIPS @ NYIST
     children:
       - title: '<i class="fad fa-lg fa-fw fa-home"></i> LUG 首页'
         url: /
@@ -33,8 +33,8 @@ wiki:
         url: /wiki/lug/mailinglist/
       - title: '<i class="fad fa-lg fa-fw fa-books"></i> LUG 书库'
         url: /wiki/lug/book/
-      - title: '<i class="fad fa-lg fa-fw fa-piggy-bank"></i> LUG 财务'
-        url: /wiki/lug/finance/
+      # - title: '<i class="fad fa-lg fa-fw fa-piggy-bank"></i> LUG 财务'
+      #   url: /wiki/lug/finance/
   - title: 联系
     children:
       - title: '<i class="fad fa-lg fa-fw fa-user-tie"></i> LUG 负责人'
@@ -52,6 +52,5 @@ wiki:
       - title: '<i class="fad fa-lg fa-fw fa-bookmark"></i> 资源导航'
         url: /wiki/lug/resources/
       - title: '<i class="fad fa-lg fa-fw fa-server"></i> 服务器新闻'
-        url: 'https://servers.ustclug.org/'
-      - title: '<i class="fas fa-lg fa-fw fa-question-square"></i> 校园网常见问题'
-        url: /wiki/doc/ustcnet-faq/
+        url: '/news/'
+

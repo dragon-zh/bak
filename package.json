@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ustclug/website.git"
+    "url": "git+https://github.com/NYIST-CIPS/website.git"
   },
   "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/ustclug/website/issues"
+    "url": "https://github.com/NYIST-CIPS/website/issues"
   },
-  "homepage": "https://lug.ustc.edu.cn",
+  "homepage": "https://cips.nyist.edu.cn",
   "devDependencies": {
     "prettier": "^2.7.1"
   }
