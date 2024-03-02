@@ -11,7 +11,7 @@ _site
 .sass-cache
 
 # Our static content
-/static/
+
 
 # Node.js stuff
 package-lock.json

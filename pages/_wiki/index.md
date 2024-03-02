@@ -11,49 +11,49 @@ permalink: /wiki/
 
 ## 特色活动
 
-- **[LUG 每周小聚](/wiki/lug/events/weeklyparty):**
+<!-- - **[LUG 每周小聚](/wiki/cips/events/weeklyparty):**
 
   每周末由同学带来的技术分享演讲。
 
-- **[Linux Install Party](/wiki/lug/events/lip):**
+- **[Linux Install Party](/wiki/cips/events/lip):**
 
   推广和安装 Linux，宣传和鼓励开源和自由软件精神的活动。
 
-- **[Linux 101](/wiki/lug/events/101):**
+- **[Linux 101](/wiki/cips/events/101):**
 
   帮助新手学习 Linux 的系列活动。
 
-- **[自由软件日](/wiki/lug/events/sfd):**
+- **[自由软件日](/wiki/cips/events/sfd):**
 
   在国际自由软件基金会（SFI）的领导下，由自由/开源软件爱好者自发筹集的非盈利性活动。
 
-- **[信息安全大赛](/wiki/lug/events/hackergame):**
+- **[信息安全大赛](/wiki/cips/events/hackergame):**
 
-  每年秋季学期举办的信息安全竞赛。
+  每年秋季学期举办的信息安全竞赛。 -->
+
+暂无。
 
 ## 网络服务
 
-- **[开源软件镜像](/wiki/lug/services/mirrors)**
-- **[LUG FTP(各种资源汇总)](/wiki/lug/services/ftp)**
-- **[网络启动服务](/wiki/lug/services/pxe)**
-- **[GitLab 代码托管](/wiki/lug/services/gitlab)**
-- **[其他](/wiki/lug/services)**
+- **[开源软件镜像](/wiki/cips/services/mirrors)**
+- **[GitLab 代码托管](/wiki/cips/services/gitlab)**
+- **[其他](/wiki/cips/services)**
 
-请参阅 [LUG 网络服务总则](/wiki/lug/services/rules)
+请参阅 [LUG 网络服务总则](/wiki/cips/services/rules)
 
 ## 联系我们
 
 - QQ 群: 适合于即时性较强的讨论，较正式的讨论还请使用邮件列表。
-- 邮件: ustc_lug (at) googlegroups.com [点击此处了解详情](/wiki/lug/mailinglist)
+- 邮件: [点击此处了解详情](/wiki/cips/mailinglist)
 - 官方邮箱: ![]({{ site.static_url }}/email.png)
 - 活动室: 东南校区 13 教 211 室
-- 更多联系方式请 [戳这里](/wiki/lug/contact)
+- 更多联系方式请 [戳这里](/wiki/cips/contact)
 
 ## 协会 LOGO
 
-![img]({{ site.static_url }}/logo.png)
+<!-- ![img]({{ site.static_url }}/logo.png) -->
 
-Designed by Shengyu Zhang on 2018-08-30
+<!-- Designed by Shengyu Zhang on 2018-08-30 -->
 
 ## 协会章程
 
