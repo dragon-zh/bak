@@ -5,8 +5,6 @@
 
 [English Version](intro_english.md)
 
-
-
 ## 特色活动
 
 暂无。

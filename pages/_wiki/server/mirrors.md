@@ -7,18 +7,18 @@
 
 ### 机器域名
 
-IPv4/v6: mirror.nyist.edu.cn    
-v4-only: mirror4.nyist.edu.cn   
-v6-only: mirror6.nyist.edu.cn   
+IPv4/v6: mirror.nyist.edu.cn  
+v4-only: mirror4.nyist.edu.cn  
+v6-only: mirror6.nyist.edu.cn
 
-IPv4：222.139.215.198   
+IPv4：222.139.215.198  
 IPv6：2001:da8:5018:8::80/64
 
 ### 支持的访问方式
 
 [http](http://mirror.nyist.edu.cn/)、[https](https://mirror.nyist.edu.cn/)
 
-rsync - **部分** 
+rsync - **部分**
 
 ### 提供的服务
 
