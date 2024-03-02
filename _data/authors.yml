@@ -8,7 +8,7 @@ admin: &cips
   links:
     - label: Website
       icon: far fa-fw fa-globe
-      url: https://cips.ustc.edu.cn/
+      url: https://cips.nyist.edu.cn/
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/NYIST-CIPS
