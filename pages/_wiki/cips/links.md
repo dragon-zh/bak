@@ -7,7 +7,7 @@
 
 - [小 K 博客](https://blog.kclub.tech/)
 - [Palve](https://www.palve.tech/)
-- [谈和鑫](tanhe.xin)
+- [谈和鑫](https://tanhe.xin)
 
 ## 姊妹社团
 
