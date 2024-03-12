@@ -20,7 +20,7 @@ jobs:
         ruby-version: '3.3.0'
     - uses: actions/setup-node@v3
       with:
-        node-version: 16
+        node-version: 21
 
     - name: Cache Ruby gems
       uses: actions/cache@v3
