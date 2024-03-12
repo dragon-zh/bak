@@ -30,7 +30,7 @@ group :jekyll_plugins do
   gem 'jekyll-tidy'
   gem 'jekyll-last-modified', '>= 1.0.3'
   gem 'jekyll-assets'
-  gem 'jekyll-archives', '>= 2.2.1'
+  # gem 'jekyll-archives', '>= 2.2.1'
   gem 'jekyll-paginate-v2', '>= 3.0.0'
   gem 'jekyll-algolia'
 end
