@@ -39,7 +39,7 @@ permalink: /wiki/
 - **[GitLab 代码托管](/wiki/cips/services/gitlab)**
 - **[其他](/wiki/cips/services)**
 
-请参阅 [LUG 网络服务总则](/wiki/cips/services/rules)
+请参阅 [CIPS 网络服务总则](/wiki/cips/services/rules)
 
 ## 联系我们
 
@@ -57,4 +57,4 @@ permalink: /wiki/
 
 ## 协会章程
 
-LUG 的所有活动均依照协会章程开展。
+CIPS 的所有活动均依照协会章程开展。
