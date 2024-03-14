@@ -4,53 +4,25 @@ permalink: /wiki/cips/services/
 
 # 网络服务列表
 
-### S 级服务
+## S 级服务
 
 - [开源镜像站](mirrors.md)（HTTP 访问）：<https://mirror.nyist.edu.cn>
 
-<!-- - 权威 DNS：ns-a.ustclug.org. ns-b.ustclug.org. ns-c.ustclug.org. -->
+## A 级服务
 
-### A 级服务
+- [代码托管平台](gitlab.md)（校内 访问）：[https://git.nyist.edu.cn](https://git.nyist.edu.cn/)
 
-- [代码托管平台](gitlab.md)：[]()
+## B 级服务
 
-<!-- - 回校访问服务 -->
-
-<!-- - ~~防污染 DNS（校内）~~ -->
-
-### B 级服务
-
-- 主页 (本 wiki)：<>
-
-<!-- - [网络启动](pxe.md)：pxe.ustc.edu.cn -->
-
-<!-- - VPN 在线申请系统（校内） -->
-
-<!-- - 轻量级网络加速服务（校内） -->
-
+- 主页 (本 wiki)：<https://cips.nyist.edu.cn>
+- [网络启动](pxe.md)：pxe.nyist.edu.cn
 - 开源镜像站（定时同步；rsync 访问；帮助页面）：<https://mirror.nyist.edu.cn>
 
-<!-- - 反向代理：\*.proxy.ustclug.org -->
+## C 级服务
 
-<!-- - 服务器统一认证：ldap.lug.ustc.edu.cn -->
+- Grafana 监控 (校内 only)：<https://grafana.nyist.edu.cn>
 
-<!-- - 内网 VPN -->
-
-### C 级服务
-
-<!-- - [LUG FTP](ftp.md)：<https://ftp.lug.ustc.edu.cn> -->
-
-<!-- - 旧的 LUG Planet（社团博客）：<https://planet.ustclug.org> -->
-
-<!-- - 旧的 LUG 新闻站：<https://news.ustclug.org> -->
-
-<!-- - Grafana 监控：<https://monitor.ustclug.org> -->
-
-<!-- - LDAP 配置管理系统（GOsa²） -->
-
-<!-- - ~~Ganglia 监控：<https://status.ustclug.org>~~ -->
-
-### 服务等级与服务标准
+## 服务等级与服务标准
 
 - S 级：最优先保障服务可用性，24 小时故障监控，故障自动转移
 

@@ -103,11 +103,10 @@ jobs:
         git push
         popd &>/dev/null
 
-    # - name: Send end notification to WeCom
-    #   uses: chf007/action-wechat-work@master
-    #   env:
-    #     WECHAT_WORK_BOT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK_URL }}
-    #   with:
-    #     msgtype: text
-    #     content: "NYIST/website 构建已完成，请前往服务器部署🚀"
-      
+    - name: Send end notification to WeCom
+      uses: chf007/action-wechat-work@master
+      env:
+        WECHAT_WORK_BOT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK_URL }}
+      with:
+        msgtype: text
+        content: "NYIST/website 构建已完成，请前往服务器部署🚀"

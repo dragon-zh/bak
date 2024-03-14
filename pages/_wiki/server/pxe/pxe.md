@@ -2,19 +2,15 @@
 permalink: /wiki/server/pxe/
 ---
 
-# 中国科学技术大学网络启动服务
+# 南阳理工学院网络启动服务
 
-pxe.ustc.edu.cn 由中国科大图书馆、网络中心和学生 Linux 用户协会共同维护，旨在为科大校园网提供各种网络启动服务。现在支持引导 Debian、Ubuntu、Arch Linux、CentOS 等常见 Linux/UNIX 发行版安装镜像或 LiveCD，同时还提供 Clonezilla、GParted Live 等实用系统维护工具。
+pxe.nyist.edu.cn 由计算机与信息化处理协会共同维护，旨在为校园网用户提供各种网络启动服务。现在支持引导 Debian、Ubuntu、Arch Linux、CentOS 等常见 Linux/UNIX 发行版安装镜像或 LiveCD，同时还提供 Clonezilla、GParted Live 等实用系统维护工具。
 
-[中国科学技术大学校园网 PXE 服务 FAQ](faq.md)
-
-[Planet: 一根网线安装 Linux——PXE 介绍](/planet/2018/10/PXE-intro/)
-
-如果遇到使用问题，请邮件联系 lug AT ustc.edu.cn。
+如果遇到使用问题，请邮件联系 cips AT nyist.edu.cn。
 
 ## 新版网络启动服务
 
-基于 GRUB 的新版网络启动服务支持**传统 PXE 模式**和**UEFI 模式**的网络启动。代码位于 https://github.com/ustclug/simple-pxe
+基于 GRUB 的新版网络启动服务支持**传统 PXE 模式**和**UEFI 模式**的网络启动。代码位于 https://github.com/NYIST-CIPS/netboot
 
 校内 DHCP 服务会自动推送网络启动配置，只要在 BIOS 设置中开启网络启动就可以了。
 
@@ -25,7 +21,7 @@ pxe.ustc.edu.cn 由中国科大图书馆、网络中心和学生 Linux 用户协
 ```shell
 insmod efinet http
 net_bootp
-configfile (http,202.38.93.94)/boot2/menu/root.menu
+configfile (http,cips.nyist.edu.cn)/cips.nyist.edu.cn.ipxe
 ```
 
 也可以制作一个 EFI 可执行文件，放在 U 盘中方便部署。在 Linux 系统中，把前面的命令行保存到文件 `grub.cfg` ，然后运行命令：
@@ -51,18 +47,6 @@ mcopy grub.efi '::/EFI/BOOT/bootx64.efi' -i floppy.img
 
 ```shell
 dhcp
-set 210:string http://202.38.93.94/boot/tftp/
+set 210:string http://pxe.nyist.edu.cn/boot/tftp/
 chain ${210:string}pxelinux.0
-```
-
-## 旧版网络启动服务
-
-旧版网络启动服务是吴峰光校友在 2001-2005 年创建的，基于 SYSLINUX。
-
-仅支持传统 PXE 启动，现在已不再更新。
-
-```shell
-dhcp //如果已经获取到了地址则请忽略
-set 210:string http://202.38.93.94/boot/tftp/
-chain ${210:string}lpxelinux.0
 ```

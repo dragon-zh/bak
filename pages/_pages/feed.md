@@ -1,7 +1,7 @@
 ---
 title: "RSS 订阅"
-excerpt: "中国科学技术大学 Linux 用户协会"
-tagline: "中国科学技术大学 Linux 用户协会"
+excerpt: "计算机与信息化处理协会"
+tagline: "计算机与信息化处理协会"
 permalink: /feed/
 layout: single
 toc: false
