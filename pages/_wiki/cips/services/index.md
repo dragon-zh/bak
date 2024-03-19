@@ -15,12 +15,13 @@ permalink: /wiki/cips/services/
 ## B 级服务
 
 - 主页 (本 wiki)：<https://cips.nyist.edu.cn>
-- [网络启动](pxe.md)：pxe.nyist.edu.cn
+- 网络启动：[pxe.nyist.edu.cn](pxe.md)
 - 开源镜像站（定时同步；rsync 访问；帮助页面）：<https://mirror.nyist.edu.cn>
 
 ## C 级服务
 
 - Grafana 监控 (校内 only)：<https://grafana.nyist.edu.cn>
+- IPTV: <https://iptv.nyist.edu.cn/>
 
 ## 服务等级与服务标准
 
