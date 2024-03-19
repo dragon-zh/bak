@@ -11,7 +11,7 @@
 
 一切尽在 GitLab！这是一个神奇的软件，让我们在校园里也能享受像 GitHub 一样的代码托管和项目管理服务，不仅访问速度快，而且支持私有项目。
 
-<!-- <https://git.lug.ustc.edu.cn/>S -->
+<https://git.nyist.edu.cn/>S
 
 <i class="fas fa-fw fa-exclamation-circle"></i> 出于存储、运维压力等方面的考虑，此服务仅限校内用户注册。
 {: .notice--warning }
