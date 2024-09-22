@@ -17,11 +17,11 @@
 
 加群链接见 `jointele.ustclug.org` 的 DNS TXT 记录 -->
 
-<!-- ## QQ 群上的 LUG
+## QQ 群上的 LUG
 
 适合于即时性较强的讨论，较正式的讨论还请使用官方邮件列表。
 
-- QQ 群: 群号请查看 `qq.ustclug.org` 的 DNS TXT 记录。校内学生请联系管理员了解详情。 -->
+- QQ 群: 群号请查看 `cipsqq.palve.moe` 的 DNS TXT 记录。校内学生请联系管理员了解详情。
 
 <!-- ## IRC 上的 LUG
 
