@@ -20,7 +20,7 @@ permalink: /wiki/cips/services/
 
 ## C 级服务
 
-- Grafana 监控 (校内 only)：<https://grafana.nyist.edu.cn>
+- Grafana 监控 (校内 only)：<https://grafana.mirror.nyist.edu.cn>
 - IPTV: <https://iptv.nyist.edu.cn/>
 
 ## 服务等级与服务标准
