@@ -27,6 +27,14 @@ wiki:
         url: /wiki/cips/events/
       - title: '<i class="fad fa-lg fa-fw fa-envelope-open-text"></i> 邮件列表'
         url: /wiki/cips/mailinglist/
+  - title: 服务
+    children:
+      - title: '<i class="fad fa-lg fa-fw fa-server"></i> 镜像站'
+        url: '/wiki/cips/services/mirrors/'
+      - title: '<i class="fad fa-lg fa-fw fa-server"></i> Git 服务'
+        url: '/wiki/cips/services/gitlab/'
+      - title: '<i class="fad fa-lg fa-fw fa-server"></i> PXE 服务'
+        url: '/wiki/cips/services/pxe/'      
   - title: 联系
     children:
       - title: '<i class="fad fa-lg fa-fw fa-user-tie"></i> CIPS 负责人'
@@ -35,8 +43,3 @@ wiki:
         url: /wiki/cips/contact/
       - title: '<i class="fad fa-lg fa-fw fa-users-medical"></i> 加入我们'
         url: /wiki/cips/contribute/
-  - title: 资源
-    children:
-      - title: '<i class="fad fa-lg fa-fw fa-server"></i> 服务器新闻'
-        url: '/news/'
-
