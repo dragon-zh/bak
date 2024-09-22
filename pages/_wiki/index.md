@@ -51,7 +51,7 @@ permalink: /wiki/
 
 ## 协会 LOGO
 
-<!-- ![img]({{ site.static_url }}/logo.png) -->
+![img](/static/logo.png)
 
 <!-- Designed by Shengyu Zhang on 2018-08-30 -->
 
