@@ -29,7 +29,7 @@ CIPS——让热爱技术的你大展拳脚！
 
 报名方式： 点[这里](https://docs.qq.com/sheet/DZFROZVhRUE5SVFNE)填写报名表。  
 面试时间： 10 月 8 日，地点：13 号楼 211 室。  
-联系我们：\*如果有任何疑问，可以直接联系（联系方式：XXX）。点[这里](https://qm.qq.com/q/GMTHU2wqky)加入招新群。
+联系我们：\*如果有任何疑问，可以点[这里](https://qm.qq.com/q/GMTHU2wqky)加入招新群进行咨询。
 
 你与未来只差一步——快来加入我们吧！
 CIPS，期待与你一起探索计算机的无限可能！
