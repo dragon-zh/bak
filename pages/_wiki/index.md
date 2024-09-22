@@ -53,8 +53,6 @@ permalink: /wiki/
 
 ![img](/static/logo.png)
 
-<!-- Designed by Shengyu Zhang on 2018-08-30 -->
-
 ## 协会章程
 
 CIPS 的所有活动均依照协会章程开展。
