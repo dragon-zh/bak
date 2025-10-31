@@ -1,7 +1,7 @@
 ---
 title: "企业网络安全建设实践指南"
 author: "杨博文"
-categories: [news]
+categories: [planet]
 tags: []
 ---
 

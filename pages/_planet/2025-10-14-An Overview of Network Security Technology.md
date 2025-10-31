@@ -1,7 +1,7 @@
 ---
 title: "网络安全技术浅谈"
 author: "杨博文"
-categories: [news]
+categories: [planet]
 tags: []
 ---
 
